@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.0",
-    "underscore": "1.5.x",
+    "underscore": "1.12.x",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "ejs": "^2.6.1",
